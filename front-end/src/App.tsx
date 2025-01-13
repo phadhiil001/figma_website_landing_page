@@ -1,4 +1,3 @@
-import React from "react";
 import { Header, Info, Topics, Blog, Testimonails, Footer } from "./components";
 
 const App = () => {
